@@ -26,3 +26,38 @@ Netlify: Infraestrutura de deploy contínuo conectada diretamente ao repositóri
 
  Resultados
 O projeto entrega uma vitrine digital profissional que transmite credibilidade, organização e a qualidade gourmet que o Açaí Tropical Paulista oferece aos seus convidados.
+O Gemini disse
+Para o seu repositório no GitHub, é importante que o README.md explique tanto o negócio (o que é o Açaí Tropical Paulista) quanto a parte técnica (como o site foi feito).
+
+Aqui está um modelo completo e profissional para você copiar e adaptar:
+
+Açaí Tropical Paulista - Landing Page de Eventos
+Este projeto é uma Landing Page profissional desenvolvida para o Açaí Tropical Paulista, uma empresa especializada em buffet gourmet de açaí para eventos em São Paulo. O site foi projetado para ser responsivo, rápido e focado em conversão (vendas).
+
+ Sobre o Projeto
+O objetivo do site é apresentar os serviços de buffet de açaí com carrinho personalizado para diversos tipos de celebrações, como casamentos, aniversários e eventos corporativos.
+
+Principais funcionalidades:
+Design Responsivo: Adaptado para celulares, tablets e desktops.
+
+Chamadas para Ação (CTA): Botões estratégicos direcionando para o WhatsApp.
+
+Seções Informativas: Detalhamento de serviços, diferenciais (buffet premium, estrutura charmosa) e guia de "Como contratar".
+
+Galeria de Experiências: Integração visual com o Instagram da marca.
+
+SEO Local: Otimizado para buscas relacionadas a "Buffet de Açaí em SP".
+
+ Tecnologias Utilizadas
+Este projeto foi construído utilizando as seguintes tecnologias:
+
+HTML5 - Estrutura semântica do conteúdo.
+
+CSS3 - Estilização, layout (Flexbox/Grid) e animações.
+
+JavaScript - (Mencione aqui se usou algum script para animação ou interatividade).
+
+Netlify - Hospedagem e Deploy contínuo.
+
+ Link do Site
+Você pode visualizar o projeto online aqui: acaidtropicalpaulistaeventos.netlify.app
